@@ -1,8 +1,8 @@
 {
-   "status":false,
+   "status":true,
    "status_check_google":true,
    "start_day_check":"20",
-   "end_day_check":"23",
+   "end_day_check":"22",
    "check_installation":true,
    "day_of_installation":0,
    "link_wa":"https://wa.me/6282164322457",
